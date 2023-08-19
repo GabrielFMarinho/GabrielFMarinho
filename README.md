@@ -1,5 +1,6 @@
 # Gabriel Marinho
 
+<!-- 
 <table>
   <tr>
     <td>
@@ -10,6 +11,8 @@
     </td>
   </tr>
 </table>
+-->
+
 
 🖥️ Desenvolvedor de Software | ![Javascript Icon](https://img.icons8.com/color/16/000000/javascript--v1.png) JavaScript | ![Node.js Icon](https://img.icons8.com/color/16/000000/nodejs.png) Node.js | ![SQL Icon](https://img.icons8.com/color/16/000000/sql.png) SQL | ![Git Icon](https://img.icons8.com/color/16/000000/git.png) Git | ![GitHub Icon](https://img.icons8.com/color/16/000000/github.png) GitHub | ![Python Icon](https://img.icons8.com/color/16/000000/python.png) Python
 
