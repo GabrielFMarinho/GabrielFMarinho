@@ -1,21 +1,6 @@
 # Gabriel Marinho
 
-<!-- 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFMarinho&show_icons=true&bg_color=00000000" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFMarinho&layout=compact&bg_color=00000000" />
-    </td>
-  </tr>
-</table>
--->
-
-
 🖥️ Desenvolvedor de Software | ![Javascript Icon](https://img.icons8.com/color/16/000000/javascript--v1.png) JavaScript | ![Node.js Icon](https://img.icons8.com/color/16/000000/nodejs.png) Node.js | ![SQL Icon](https://img.icons8.com/color/16/000000/sql.png) SQL | ![Git Icon](https://img.icons8.com/color/16/000000/git.png) Git | ![GitHub Icon](https://img.icons8.com/color/16/000000/github.png) GitHub | ![Python Icon](https://img.icons8.com/color/16/000000/python.png) Python
-
 
 
 ## Sobre Mim
@@ -45,3 +30,6 @@ Fique à vontade para entrar em contato comigo através do:
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532984681942)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marinho95/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel18marinho@gmail.com)
+
+[![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielFMarinho&theme=nord_dark)](https://github.com/GabrielFMarinho)
+[![image](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFMarinho&layout=compact&bg_color=00000000)
