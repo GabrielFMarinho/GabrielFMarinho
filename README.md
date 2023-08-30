@@ -19,13 +19,13 @@
 
 
 ## Sobre Mim
-Desde que iniciei minha jornada na programação em 2022, cursando Engenharia de Software na Estácio, venho me dedicando intensamente a evoluir como desenvolvedor de software. Minha paixão pela área de tecnologia impulsionou meu comprometimento em aprimorar constantemente minhas habilidades e conhecimentos nesse campo.
+Sou um desenvolvedor de software que, ao longo de minha trajetória profissional, trilhei um caminho diversificado, adquirindo habilidades valiosas. Agora, estou empolgado para aplicar essas competências onde reside minha paixão: a tecnologia.
 
-No momento, estou focado em me especializar ainda mais através do projeto Back-End Web Development da Cubos Academy. Através dessa especialização, busco adquirir um conhecimento sólido em desenvolvimento de software e aprender as melhores práticas da indústria.
+Atualmente, estou aprimorando minhas habilidades de desenvolvimento de software e arquitetura de sistemas através da especialização em Back-End Web Development pela Cubos Academy. Minha formação em Engenharia de Software na Estácio me fornece uma base sólida para enfrentar projetos inovadores.
 
-Além das competências técnicas, tenho sido reconhecido pela minha habilidade em trabalhar em equipe, minha capacidade de comunicação eficaz e por cultivar relações positivas com os colegas de trabalho. Acredito que a colaboração é essencial para o sucesso de qualquer projeto.
+Meu objetivo é contribuir com meu conhecimento técnico e habilidades de liderança em uma empresa de destaque, motivado a buscar projetos desafiadores.
 
-Atualmente, estou em busca de oportunidades empolgantes na área de tecnologia, onde eu possa aplicar todo o meu conhecimento e habilidades para contribuir significativamente com o desenvolvimento de projetos inovadores e desafiadores. Estou aberto a desafios que me permitam crescer profissionalmente e, ao mesmo tempo, contribuir para o sucesso dos projetos em que estiver envolvido.
+Possuo experiência prática em Javascript, versionamento de código usando Git e GitHub. Minhas competências abrangem desenvolvimento back-end. Minhas habilidades de trabalho em equipe, comunicação eficaz e adaptabilidade, essenciais para enfrentar projetos em ritmo acelerado, algo que valorizo muito. Minha trajetória inclui experiências em liderança, papéis que ensinaram a tomar decisões informadas e mediar conflitos.
 
 ## Experiência
 - **Desenvolvedor de Software** na Cubos Academy (jul 2023 - dez 2023)
@@ -41,7 +41,7 @@ Atualmente, estou em busca de oportunidades empolgantes na área de tecnologia, 
   - Terceiro período do curso de Engenharia de Software na Estácio
 
 ## Contato
-
+Fique à vontade para entrar em contato comigo através do:
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532984681942)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marinho95/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel18marinho@gmail.com)
