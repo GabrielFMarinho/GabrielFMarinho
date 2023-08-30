@@ -1,6 +1,6 @@
 # Gabriel Marinho
 
-🖥️ Desenvolvedor de Software | ![Javascript Icon](https://img.icons8.com/color/16/000000/javascript--v1.png) JavaScript | ![Node.js Icon](https://img.icons8.com/color/16/000000/nodejs.png) Node.js | ![SQL Icon](https://img.icons8.com/color/16/000000/sql.png) SQL | ![Git Icon](https://img.icons8.com/color/16/000000/git.png) Git | ![GitHub Icon](https://img.icons8.com/color/16/000000/github.png) GitHub | ![Python Icon](https://img.icons8.com/color/16/000000/python.png) Python
+🖥️ Desenvolvedor de Software
 
 
 ## Sobre Mim
@@ -14,10 +14,10 @@ Possuo experiência prática em Javascript, versionamento de código usando Git 
 
 ## Experiência
 - **Desenvolvedor de Software** na Cubos Academy (jul 2023 - dez 2023)
-  - Desenvolvimento Back-end (Javascript, Node.js e pacotes npm)
+  - Desenvolvimento Back-end (![Javascript Icon](https://img.icons8.com/color/16/000000/javascript--v1.png) Javascript, ![Node.js Icon](https://img.icons8.com/color/16/000000/nodejs.png) Node.js e pacotes npm)
   - Desenvolvimento de APIs Rest
-  - Experiência com projeção de banco de dados utilizando PostgreSQL e SQL
-  - Experiência com Git Hub
+  - Experiência com projeção de banco de dados utilizando ![SQL Icon](https://img.icons8.com/color/16/000000/sql.png) SQL
+  - Experiência com ![Git Icon](https://img.icons8.com/color/16/000000/git.png) Git e ![GitHub Icon](https://img.icons8.com/color/16/000000/github.png) Git Hub
   - Experiência com metodologias ágeis
 
 
