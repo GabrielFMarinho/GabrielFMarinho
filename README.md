@@ -21,7 +21,7 @@
 ## Sobre Mim
 Sou um desenvolvedor de software que, ao longo de minha trajetória profissional, trilhei um caminho diversificado, adquirindo habilidades valiosas. Agora, estou empolgado para aplicar essas competências onde reside minha paixão: a tecnologia.
 
-Atualmente, estou aprimorando minhas habilidades de desenvolvimento de software e arquitetura de sistemas através da especialização em Back-End Web Development pela Cubos Academy. Minha formação em Engenharia de Software na Estácio me fornece uma base sólida para enfrentar projetos inovadores.
+Atualmente, estou aprimorando minhas habilidades de desenvolvimento de software e arquitetura de sistemas através da especialização em *Back-End* Web Development pela Cubos Academy. Minha formação em Engenharia de Software na Estácio me fornece uma base sólida para enfrentar projetos inovadores.
 
 Meu objetivo é contribuir com meu conhecimento técnico e habilidades de liderança em uma empresa de destaque, motivado a buscar projetos desafiadores.
 
