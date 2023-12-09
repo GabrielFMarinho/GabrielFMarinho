@@ -4,13 +4,13 @@
 
 
 ## Sobre Mim
-Sou um desenvolvedor de software que explorou diferentes caminhos ao longo de minha trajetória profissional, adquirindo habilidades diversificadas. Agora, estou empolgado para aplicar essas competências onde reside minha paixão: a tecnologia.
+Recentemente, solidifiquei minha formação acadêmica ao concluir a especialização em Back-End Web Development pela Cubos Academy e conquistei a certificação AWS Certified Cloud Practitioner, aprimorando ainda mais minhas habilidades por meio da Escola da Nuvem. No momento, estou imerso no curso de Engenharia de Software na Estácio, focando meus estudos na preparação para as certificações AWS Certified Solutions Architect.
 
-Atualmente, estou aprimorando minhas habilidades de desenvolvimento de software e arquitetura de sistemas através da especialização em *Back-End* Web Development pela [Cubos Academy](https://cubos.academy/). Minha formação em Engenharia de Software na Estácio me fornece uma base sólida para enfrentar projetos inovadores.
+Habilidades Técnicas: Como desenvolvedor de software, domino tecnologias essenciais, como Javascript, Node.js para a construção robusta de sistemas back-end e SQL para a manipulação eficiente de bancos de dados. Minha experiência abrange práticas avançadas de versionamento de código com Git e GitHub, além da implementação eficaz de soluções em plataformas em nuvem, como AWS.
 
-Meu objetivo é contribuir com meu conhecimento técnico e habilidades de liderança em uma empresa de destaque, motivado a buscar projetos desafiadores.
+Experiência Profissional: Ao longo da minha trajetória, acumulei experiência em liderança, tomando decisões informadas e medindo conflitos para garantir o sucesso de projetos desafiadores. Valorizo o trabalho em equipe, a comunicação eficaz e a adaptabilidade, competências essenciais para enfrentar desafios em ambientes de ritmo acelerado.
 
-Possuo experiência prática em Javascript, versionamento de código usando Git e GitHub. Minhas competências abrangem desenvolvimento back-end. Minhas habilidades de trabalho em equipe, comunicação eficaz e adaptabilidade, essenciais para enfrentar projetos em ritmo acelerado, algo que valorizo muito. Minha trajetória inclui experiências em liderança, papéis que ensinaram a tomar decisões informadas e mediar conflitos.
+Motivação e Objetivos: Estou motivado a aplicar meu conhecimento técnico e minhas habilidades de liderança em uma empresa de destaque. Pronto para enfrentar novos desafios, estou confiante em minha capacidade de contribuir de maneira significativa para projetos inovadores.
 
 ## Experiência
 - **Desenvolvedor de Software** na Cubos Academy (jul 2023 - dez 2023)
@@ -24,6 +24,11 @@ Possuo experiência prática em Javascript, versionamento de código usando Git 
 ## Formação Acadêmica
 - **Bacharelado em Engenharia de Software** na Estácio (set 2022 - set 2026)
   - Terceiro período do curso de Engenharia de Software na Estácio
+  - Cubos AcademyCubos Academy Desenvolvedor de Software Back-end jun de 2023 - nov de 2023
+  - Escola da Nuvem Curso de Formação Computação em Nuvem, AWS Fundamentos set de 2023 - dez de 2023
+  - 
+## Certificação
+- **AWS Certified Cloud Practitioner**
 
 ## Contato
 Fique à vontade para entrar em contato comigo através do:
