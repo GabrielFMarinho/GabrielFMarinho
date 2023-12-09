@@ -25,7 +25,7 @@ Motivação e Objetivos: Estou motivado a aplicar meu conhecimento técnico e mi
 - **Bacharelado em Engenharia de Software** na Estácio (set 2022 - set 2026)
   - Cubos AcademyCubos Academy Desenvolvedor de Software Back-end jun de 2023 - nov de 2023
   - Escola da Nuvem Curso de Formação Computação em Nuvem, AWS Fundamentos set de 2023 - dez de 2023
-  - 
+   
 ## Certificação
 - **AWS Certified Cloud Practitioner**
 
