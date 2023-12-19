@@ -1,21 +1,11 @@
-# Gabriel Marinho
-
+# Olá! Eu sou o Gabriel Marinho 🖐️
 [![GitHub Followers](https://img.shields.io/github/followers/GabrielFMarinho.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/GabrielFMarinho?tab=followers)
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=GabrielFMarinho)
 ![GitHub latest commit](https://badgen.net/github/last-commit/GabrielFMarinho/GabrielFMarinho/?icon=github&color=red)
 ![GitHub Commits Count](https://badgen.net/github/commits/GabrielFMarinho/GabrielFMarinho/?icon=github&color=green)
 ![GitHub Stars Count](https://badgen.net/github/stars/GabrielFMarinho/GabrielFMarinho/?icon=github&color=yellow)
 
-
-## Sobre Mim
-Recentemente, solidifiquei minha formação acadêmica ao concluir a especialização em Back-End Web Development pela Cubos Academy e conquistei a certificação AWS Certified Cloud Practitioner, aprimorando ainda mais minhas habilidades por meio da Escola da Nuvem. No momento, estou imerso no curso de Engenharia de Software na Estácio, focando meus estudos na preparação para as certificações AWS Certified Solutions Architect.
-
-Habilidades Técnicas: Como desenvolvedor de software, domino tecnologias essenciais, como Javascript, Node.js para a construção robusta de sistemas back-end e SQL para a manipulação eficiente de bancos de dados. Minha experiência abrange práticas avançadas de versionamento de código com Git e GitHub, além da implementação eficaz de soluções em plataformas em nuvem, como AWS.
-
-Experiência Profissional: Ao longo da minha trajetória, acumulei experiência em liderança, tomando decisões informadas e medindo conflitos para garantir o sucesso de projetos desafiadores. Valorizo o trabalho em equipe, a comunicação eficaz e a adaptabilidade, competências essenciais para enfrentar desafios em ambientes de ritmo acelerado.
-
-Motivação e Objetivos: Estou motivado a aplicar meu conhecimento técnico e minhas habilidades de liderança em uma empresa de destaque. Pronto para enfrentar novos desafios, estou confiante em minha capacidade de contribuir de maneira significativa para projetos inovadores.
-  
+   <img src="https://miro.medium.com/v2/resize:fit:342/1*rpYyNZvqfFej0FgWEW5p9Q.png" min-width="65px" max-width="65px" width="65px" align="right">  
  <details>
     <summary>Experiência</summary>
     
