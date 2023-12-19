@@ -28,7 +28,7 @@
   </details>
 
 
-   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" min-width="200px" max-width="200px" width="200px" align="right">
+   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" min-width="150px" max-width="150px" width="150px" align="right">
 ## Certificação
 - **AWS Certified Cloud Practitioner**
 
