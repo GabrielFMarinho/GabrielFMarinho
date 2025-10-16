@@ -28,8 +28,14 @@
   </details>
 
 
-   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" min-width="150px" max-width="150px" width="150px" align="right">
 ## Certificações AWS
+
+<div align="left">
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" width="100px" alt="AWS Cloud Practitioner Badge"/>
+  <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100px" alt="AWS AI Practitioner Badge"/>
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100px" alt="AWS Solutions Architect Associate Badge"/>
+  <img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="100px" alt="AWS Machine Learning Engineer Associate Badge"/>
+</div>
 
 - **AWS Certified Cloud Practitioner**
 - **AWS Certified AI Practitioner**
