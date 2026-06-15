@@ -67,17 +67,6 @@ Sou estudante de Engenharia de Software e profissional de tecnologia com foco em
 - AWS Certified AI Practitioner
 - AWS Certified Cloud Practitioner
 
-### Specialty
-- AWS Certified Machine Learning – Specialty
-
-### Associate
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Machine Learning Engineer – Associate
-
-### Foundational
-- AWS Certified AI Practitioner
-- AWS Certified Cloud Practitioner
-
 ## Tecnologias
 
 ### Cloud & DevOps
