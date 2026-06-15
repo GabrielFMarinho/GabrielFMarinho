@@ -26,16 +26,25 @@ My focus is on the intersection of **Amazon Connect**, **Amazon Lex V2**, **Cont
 
 <div align="center">
 
-| Specialty | Associate | Foundational |
-|---|---|---|
-| AWS Certified Machine Learning – Specialty | AWS Certified Solutions Architect – Associate | AWS Certified AI Practitioner |
-| | AWS Certified Machine Learning Engineer – Associate | AWS Certified Cloud Practitioner |
+<img src="https://images.credly.com/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" height="100" alt="AWS Certified Machine Learning – Specialty"/>
+<img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" height="100" alt="AWS Certified Machine Learning Engineer – Associate"/>
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="AWS Certified Solutions Architect – Associate"/>
+<img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="100" alt="AWS Certified AI Practitioner"/>
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" alt="AWS Certified Cloud Practitioner"/>
 
 </div>
 
-**Specialist Badges**
-- Amazon Connect Developer Specialist
-- AWS re/Start Graduate
+---
+
+## AWS Badges
+
+<div align="center">
+
+<img src="https://images.credly.com/images/7296c476-fb6a-44bf-a802-2cc75b870d66/blob" height="100" alt="AWS Knowledge: Amazon Connect Communications Specialist"/>
+<img src="https://images.credly.com/images/c2e730b8-ec46-40ff-b0d9-c3df3fa7d8cc/blob" height="100" alt="AWS Knowledge: Amazon Connect Developer"/>
+<img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" height="100" alt="AWS re/Start Graduate"/>
+
+</div>
 
 ---
 
