@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--marinho95-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/gabriel-marinho95)
 [![GitHub](https://img.shields.io/badge/GitHub-GabrielFMarinho-181717?style=flat&logo=github)](https://github.com/GabrielFMarinho)
-[![Email](https://img.shields.io/badge/Email-gabriel.marinho@in2clouds.cloud-EA4335?style=flat&logo=gmail)](mailto:gabriel.marinho@in2clouds.cloud)
+[![Email](https://img.shields.io/badge/Email-gabriel18marinho@gmail.com-EA4335?style=flat&logo=gmail)](mailto:gabriel18marinho@gmail.com)
 
 </div>
 
