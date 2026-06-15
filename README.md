@@ -44,7 +44,7 @@ Sou estudante de Engenharia de Software e profissional de tecnologia com foco em
 
 <div align="left">
   <a href="https://www.credly.com/badges/7d660d3c-2ee3-4d45-ac23-52cdb3af7a41/public_url">
-    <img src="https://images.credly.com/size/340x340/images/57e8f37a-7c8f-4f6d-8c6f-1d5899f8e2f8/image.png" width="100px" alt="AWS Machine Learning Specialty Badge"/>
+    <img src="https://images.credly.com/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="100px" alt="AWS Machine Learning Specialty Badge"/>
   </a>
 
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100px" alt="AWS Solutions Architect Associate Badge"/>
@@ -55,6 +55,17 @@ Sou estudante de Engenharia de Software e profissional de tecnologia com foco em
 
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" width="100px" alt="AWS Cloud Practitioner Badge"/>
 </div>
+
+### Specialty
+- AWS Certified Machine Learning – Specialty
+
+### Associate
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Machine Learning Engineer – Associate
+
+### Foundational
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
 
 ### Specialty
 - AWS Certified Machine Learning – Specialty
